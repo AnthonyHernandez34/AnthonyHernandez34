@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Hello My Name Is Anthony Hernandez let me tell you a little about myself
 
 - 🔭 I’m currently working on Capstone.
 - 🌱 I’m currently learning SQl.
