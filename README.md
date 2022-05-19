@@ -10,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [https://www.linkedin.com/](https://www.linkedin.com/in/anthony-hernandez-b5a9b5231/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the United States Military
+
+https://github-readme-stats.vercel.app/api?username=AnthonyHernandez34&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 -->
